@@ -1,4 +1,4 @@
-FROM ubuntu:16.04
+FROM ubuntu:20.04
 MAINTAINER Matt Tesauro <matt.tesauro@owasp.org>
 
 # # # Create a single Docker image running DefectDojo and all dependencies
